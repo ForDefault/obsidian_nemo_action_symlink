@@ -4,6 +4,8 @@ Obsidian Nemo Action: syslink to folder obsidian_notes (need to install Symlink 
 
 # Change the $target_folder to your desired path 
 
+> assumes you have obsidian installed as flatpak for the icon location
+
 ```
 username="$(whoami)"
 #CHANGE TARGET_FOLDER TO YOUR PATH
